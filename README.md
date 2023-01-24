@@ -8,9 +8,6 @@ Front - End Developer
 * ✉️  You can contact me at [v.plesco@gmail.com](mailto:v.plesco@gmail.com)
 * 🧠  I'm learning React
 
-<a href="https://www.github.com/vitalieplesco" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/vitalieplesco?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 
@@ -34,4 +31,8 @@ src="https://img.shields.io/github/followers/vitalieplesco?logo=github&style=for
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/vitalieplesco"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vitalieplesco&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/vitalieplesco"><img src="https://github-readme-stats.vercel.app/api?username=vitalieplesco&show_icons=true&hide=prs,contribs&title_color=14b8a6&text_color=14b8a6&icon_color=84cc16&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="vitalieplesco's GitHub stats" /></a>
+
+<a href="http://www.github.com/vitalieplesco"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vitalieplesco&stroke=14b8a6&background=1e3a8a&ring=14b8a6&fire=14b8a6&currStreakNum=14b8a6&currStreakLabel=14b8a6&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
+
+<a href="https://github.com/vitalieplesco" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitalieplesco&langs_count=10&title_color=14b8a6&text_color=14b8a6&icon_color=84cc16&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
