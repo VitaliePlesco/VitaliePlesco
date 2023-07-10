@@ -6,7 +6,7 @@ Front - End Developer
 
 * 🌍  I'm based in Chisinau
 * ✉️  You can contact me at [v.plesco@gmail.com](mailto:v.plesco@gmail.com)
-* 🧠  I'm learning React
+* 🧠  Currently learning Typescript
 
 ### Skills
 
