@@ -1,7 +1,7 @@
 Hi 👋 My name is Vitalie Plesco
 ===============================
 
-Web developer
+Software developer
 -------------
 
 * 🌍  I'm based in Chisinau
